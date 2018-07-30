@@ -7,6 +7,6 @@ An environment for Atari on [OpenAI gym](https://github.com/openai/gym) using th
 
 2. Download a ROM-file for the Atari game, or use a ROM file included in the repository. Title the ROM-file all lowercase, such as 'pong.bin'.
 
-3. Import UpdatedAtariEnv and follow the OpenAI gym API. An introduction the new ALE is available here: https://arxiv.org/pdf/1709.06009.pdf. This is a list of the available modes and difficulties for each game.
+3. Import UpdatedAtariEnv and follow the OpenAI gym API. An introduction the new ALE is available here: https://arxiv.org/pdf/1709.06009.pdf. This is a list of the available modes and difficulties for each game from the paper.
 
 ![ALE Modes and Difficulties](https://raw.githubusercontent.com/bclyang/updated-atari-env/master/modes_difficulties.png)
